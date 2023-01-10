@@ -3,4 +3,4 @@
 **Особенности**:
 1. Есть анимированная кнопка
 
-*Сайт доступен по ссылке: https://beandx.github.io/firstsite/*
+*Сайт доступен по ссылке: https://beandx.github.io/site1/*
